@@ -1,0 +1,15 @@
+:root {
+  /* fonts types*/
+  --font-main: "Roboto", sans-serif;
+  --font-second: "Raleway", sans-serif;
+  /* text colors */
+  --txt-main-cl: color #212121;
+  /* background colors*/
+  --bg-color-dark: #2f303a;
+  --bg-color-light: #f5f4fa;
+}
+
+body {
+  font-family: var(--font-main);
+  color: var(--font-main);
+}/*# sourceMappingURL=main.css.map */
