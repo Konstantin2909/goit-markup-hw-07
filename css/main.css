@@ -7,9 +7,4 @@
   /* background colors*/
   --bg-color-dark: #2f303a;
   --bg-color-light: #f5f4fa;
-}
-
-body {
-  font-family: var(--font-main);
-  color: var(--font-main);
 }/*# sourceMappingURL=main.css.map */

@@ -1,1 +1,1 @@
-{"version":3,"sources":["../s%D1%81ss/utils/_variables.scss","../s%D1%81ss/base/_base.scss"],"names":[],"mappings":"AAAA,MAGI,iCAAA,CACA,oCAAA,CAIA,4BAAA,CAIA,wBAAA,CACA,yBAAA,CCbJ,KACI,4BAAA,CACA,sBAAA","file":"main.min.css"}
+{"version":3,"sources":["../sass/utils/_variables.scss"],"names":[],"mappings":"AAAA,MAGI,iCAAA,CACA,oCAAA,CAIA,4BAAA,CAIA,wBAAA,CACA,yBAAA","file":"main.min.css"}
